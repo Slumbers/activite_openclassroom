@@ -1,3 +1,6 @@
 # activite_openclassroom
 
-Modification de Read Me
+Modification de README
+
+ * fichier1
+ * fichier2
